@@ -1,1 +1,2 @@
+rm bio.txt
 My name is Jordan. I love DevOps and fashion.
